@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+renders/
+output/*.mp4
+*.ogv
+audio/joy/spectrum_output/spectrum.csv
+audio/joy/spectrum_output/spectrum.png
+audio/joy/spectrum_output/peak_hold.png
